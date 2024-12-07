@@ -49,3 +49,9 @@ npx vite
 ```
 
 Navigate to : http://localhost:5173
+
+---
+## Demo Video 
+
+https://github.com/user-attachments/assets/d8204769-6d5e-4f1e-b0b0-c14ce027b057
+
